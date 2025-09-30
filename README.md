@@ -1,4 +1,4 @@
-# Airbnb Open Data Analysis 🏠
+# Airbnb Open Data Analysis
 
 ##  Project Overview
 This project analyzes **Airbnb open data** using Python (NumPy, Pandas, Matplotlib, Seaborn).  
